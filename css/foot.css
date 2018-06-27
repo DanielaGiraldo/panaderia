@@ -1,0 +1,9 @@
+ body{margin:0;}
+ #foot{width:100%;height:190px; padding:0px;}
+ .divfoot{display:inline-block;width: 23%; height:190px;float:left; margin:2px; background-color:#C8966B;padding:13px;}
+ .divfoot a{color:#fff;text-decoration: none;font-weight: normal;}
+ .divfoot a:hover{color:#ccc; text-decoration:underline;}
+ .spanfoot{font-size: 15px;color:#361E0A; font-weight: bold; font-family: Hobo Std; float;left;margin:2px;}  
+ .li2{font-family: Anisa Sans; color: #fff; font-size: 18px; font-weight:bolder;}  
+ .li3{font-size: 15px;font-family: Anisa Sans; color:#A04000;}
+ 

@@ -1,0 +1,36 @@
+
+          body{background-color: #FFFAF9; background-image: url('../img/fondo.jpg'); background-attachment: fixed;margin:0;}
+           h1{color:#D35400; font-family: Hobo Std;}
+            .h1{color:#fff; font-size: 30px;font-family: Hobo Std;}
+           h2{color:#A04000;text-align: justify; font-family:Hobo Std;}
+           #h2{color:#A04000;text-align: center; font-size:40px; font-family:Hobo Std;}
+           h3{color:#A04000; font-size: 15px; font-family: Hobo Std;}
+           #mih2{color: #A04000;font-size: 20px; font-family: Hobo Std; text-align:justify;} 
+           p{font-size: 18px; color: #000;text-align: justify; font-family:Source Sans Pro Light;}
+           #container{ margin: 0 20% 10% 20%;}
+           #container2{margin: 5% 10% 5% 10%;border: 3px solid #000; background-color:#AC8570;padding: 0 10px 10px 10px; width: 80%;}
+           #container4{margin: 5% 10% 5% 10%;border: 3px solid #000; background-color:#AC8570;padding: 0 10px 10px 10px; width: 45%; height: 300px;}
+           #container3{ margin: 0 20% 10% 20%;  border: 0px solid #5A3428;padding: 0 10px 10px 10px}
+           #img{text-align: center;}
+           #img2{text-align: left;}
+           #img3{text-align: right;0}
+          .li3{font-size: 15px;font-family: Anisa Sans; color:#A04000;}
+          .linkmenu a{color:#A04000; font-weight:bold;text-decoration: none;font-size: 18px;}
+          .linkmenu a:hover{color:#000; text-decoration: underline;}
+            ul{text-align: left;font-size: 15px;}
+            li{font-size: 15px; color:#A04000;font-family: Hobo Std;}
+           .li2{font-family: Anisa Sans; color: #fff; font-size: 18px; font-weight:bolder;padding: 60px;}
+           #iframe-head{height: 400px;width: 100%; margin:0; border: 0px;}
+           #iframe-foot{height: 250px;width: 100%; margin:0; border: 0px;}
+           label{font-weight:bold;font-family: Aller Light;}
+           thead{font-family: Hobo Std;font-size: 20px;color:#fff; text-align: left;background-color:#763A1A;}
+           td{font-family: Anisa Sans; font-size: 20px;}
+           table{width: 600px; background-color:#E4AA8A;}
+           .label{text-align: center;font-weight: bold;font-size: 18px;}
+           #head{width: 100%;}
+           .value{color:#361E0A;background-color:#fff;font-family:Hobo Std; font-size: 18px;}
+            .menu2{float:middle; width: 70%;list-style-type: none;margin: 0; padding: 0px;overflow: hidden;background-color: #fff;}
+ 
+
+
+         

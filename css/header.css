@@ -1,0 +1,15 @@
+    body{margin:0;padding:0;}
+     h1{color:#D35400; font-family: Hobo Std;}
+    #banner{width:100%;background-color:#ccc;background-image: url('../img/banner.jpg'); height: 300px;}
+    
+    #panaderia{color:#FFF0E8; font-size: 70px;}
+    #dani{color:#542208;font-size: 70px;}
+   
+    .li{color:#A04000; font-size: 18px; font-family:Hobo Std;}
+    .li3{font-size: 15px;font-family: Anisa Sans; color:#A04000;}
+    ul{list-style-type:none; margin:0;padding:0; overflow:hidden; background-color:#fff;}
+    li{float:left;}
+    li a{display:block; color:white; text-align: center; padding: 10px; text-decoration:none;}
+    li a:hover{background-color:#D7BFB3;}
+    #margin{margin-left:450px;}
+
